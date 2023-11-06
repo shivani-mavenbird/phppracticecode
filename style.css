@@ -1,0 +1,69 @@
+.Registrtion , .update_registrtion{
+	border: 2px solid black;
+	height: 500px;
+	text-align: center;
+	background: lightsteelblue;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.Registrtion_titel, .update_registrtion_titel{
+	color: lightcoralt;
+}
+.Registrtion_details{
+	color: blue;
+}
+.Registrtion_details li{
+	list-style: none;
+}
+.Registrtion_details .input_field {
+	border: 0px;
+}
+.Registrtion_details .input_field label{
+	margin-right: 20px;
+}
+.Registrtion_details .input_field input{
+	margin-bottom: 20px;
+}
+.add_item input{
+	border: 1px solid yellowgreen;
+	background: blue;
+	color: white;
+	padding: 5px 15px 5px;
+	border-radius: 5px;
+}
+.add_item input:hover{
+	color: black;
+	background: lightblue;
+}
+.Registrtion_link a{
+	border: 1px solid yellowgreen;
+	background: blue;
+	color: white;
+	padding: 5px 15px 5px;
+	border-radius: 5px;
+}
+.Registrtion_link a:hover{
+	color: black;
+	background: lightblue;
+
+}
+.update_item input{
+	border: 1px solid yellowgreen;
+	background: blue;
+	color: white;
+	padding: 5px 15px 5px;
+	border-radius: 5px;
+}
+.update_item input:hover{
+	color: black;
+	background: lightblue;
+}
+.update_field{
+	border: 0px;
+}
+.update_field label{
+	margin-right: 20px;
+}
+.update_field input{
+	margin-bottom: 20px;
+}
